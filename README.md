@@ -111,6 +111,22 @@ Gráfico interativo de mortes no Brasil e e, u, país selecionado:
 ![image](https://user-images.githubusercontent.com/48839817/145812185-05f60e85-3208-4ae7-998f-7b9afe0abe57.png)
 
 
+## Conclusão
+
+A pandemia causada pela COVID-19 continua infectando e causando mortes pelo mundo. Vimos que os casos e mortes se somam ao longo do tempo mas isso não ocorre de maneira linear. Antes temos as chamdas ondas, com fluxos e refluxos mundiais causados por diversas razões - dentre elas o surgimento de variáveis e vacinas.
+
+Ao fragmentar essa análise para o nível continental ficam claras as diferenças regionais. Vemos como cada onda da doença afetou de maneira diferente essas regiões. A primeira e segunda ondas se pronunciam na Europa com uma forte terceira nas américas e posteriormente as ondas asiáticas que afetaram sobretudo a Índia. Atualmente vemo o Novo Continente liderando em mortes por milhão, seguidos do Velho Continente e da Ásia - Oceania é um caso constante de controle da doença.
+
+Descendo mais um nível de desagregação dos dados chegamos aos países. Mesmo nesse nível as disparidades internas impactam na pandemia. Mas é a partir desse nível que podemos ver mais claramente como as diferentes características afetam o desenvolvimento da pandemia.
+
+O caso brasileiro se apresenta como um dos piores mundialmente. Tendo a primeira infecção detectada em 26 de Fevereiro de 2020 e a primeira morte 20 dias depois, a vacinação só iniciou em 17 de Janeiro de 2021. Após uma primeira onda entre Abril e Outubro de 2020 uma segunda onda mais forte veio próxima de Março de 2021. Essa nova onda alcança um pico em Abril e começa a arrefecer então - em parte pelo avanço da vacinação que nesse mesmo mês começa a acelerar.
+
+Esse cenário coloca o Brasil como segundo país com mais mortes totais atrás de EUA e à frente de Índia e entre os 10 países com mais mortes por milhão de habitantes.
+
+O que leva cada país a ter um cenário melhor ou pior na pandemia ainda é incerto. Mas  a correlação dos dados apontam como possíveis causas a idade da população, a pobreza e doenças cardiovasculares. Outras relações poderiam ser feitas, mas seriam necessários dados mais desagregados para afirmar com maior grau de certeza - como é o caso de mulheres fumantes .
+
+
+
 
 ## Software & Bibliotecas
 
