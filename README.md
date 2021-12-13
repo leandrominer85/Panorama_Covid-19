@@ -111,12 +111,6 @@ Gráfico interativo de mortes no Brasil e e, u, país selecionado:
 ![image](https://user-images.githubusercontent.com/48839817/145812185-05f60e85-3208-4ae7-998f-7b9afe0abe57.png)
 
 
-## Dados-do-Airbnb-Lisboa
-
-Esse projeto visa analisar os dados sobre os imóveis disponíveis para locação na plataforma do Airbnb na cidade de Lisboa a partir do dataset disponibilizado na plataforma [Inside Airbnb](http://insideairbnb.com/behind.html).
-O intuito desse projeto é fazer uma análise exploratória dos dados que permita retirar insights sobre o estado dos imóveis na data de 20/11/2020. Para tanto utilizei a plataforma do Google Colab e Python.
-Os resultados podem ser visualizados no Notebook desse projeto ou no artigo do Medium
-
 
 ## Software & Bibliotecas
 
