@@ -29,13 +29,13 @@ Grupo Etário | Índice de fatalidade
 
 Enquanto a vacinação avança e a pandemia infecta mais pessoas surgem novas variantes. Essas variações do vírus original provocam modificações que podem torná-lo mais infeccioso ou aumentar o seu escape vacinal. Portanto, a maneira mais eficaz de prevenção é o distanciamento social e o uso de medidas profiláticas como uso de máscara.
 
-Enquanto esse cenário se desenrola podemos ver como está a evolução da doença ao longo do tempo de acordo com os dados. Nesse projeto utilizarei os dados do [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data).
+Ao longo do desenrolar da pandemia podemos ver como está a evolução da doença ao longo do tempo de acordo com os dados. Nesse projeto utilizarei os dados do [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data).
 
 Primeiramente farei uma análise geral da base. Posteriormente dividirei o dataset em três grupos: Mundo, Continentes e Países (com foco no Brasil).
 
 O objetivo é explorar a base retirando insights que demonstrem o panomara geral da doença em cada um dos blocos analisados, dando ênfase à análise gráfica. O ponto de partida será uma análise exploratória e a limpeza de dados para  posterior retirada de conclusões.
 
-Todo o código, gráficos e conclusões está disponível no [notebook](Panorama_do_COVID_19.ipynb).
+Todo o código, gráficos e conclusões estão disponíveis no [notebook](Panorama_do_COVID_19.ipynb).
 
 ## Dicionário de Variáveis
 
