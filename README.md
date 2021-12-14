@@ -140,7 +140,7 @@ O Projeto utilizou Python 3 e as seguintes bibliotecas:
 
 
 **Meus Links:**
-* [Artigo desse projeto no Medium]()
+* [Artigo desse projeto no Medium](https://epp-minervino.medium.com/an%C3%A1lise-explorat%C3%B3ria-da-covid-19-fac91234ccee)
 * [LinkedIn](https://www.linkedin.com/in/leandro-minervino-b469681b/)
 * [Colab](https://colab.research.google.com/drive/1o4dzudIzvU1XIkGKI29nh7yPBMh9avuv?usp=sharing)
 
