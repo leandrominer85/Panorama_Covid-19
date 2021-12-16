@@ -1,3 +1,10 @@
+[![author](https://img.shields.io/badge/author-LeandroMinervino-red.svg)](https://www.linkedin.com/in/rafael-n-duarte/) [![](https://img.shields.io/badge/python-3.7.12+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelnduarte/portfolio/issues)
+
+<p align="center">
+  <img alt="Colaboratory logo" width="40%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/1024px-Coronavirus._SARS-CoV-2.png">
+</p>
+
+
 # Panorama da COVID-19
 
 A pandemia provocada pelo surgimento do Coronavírus SARS-CoV-2 popularmente conhecida como COVID-19 marcou e continua marcando a história do mundo.
@@ -8,7 +15,7 @@ Por se tratar de um vírus resíratório altamente transmissível a COVID-19 rap
 
 
 
-<center><img alt="Colaboratory logo" width="40%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/1024px-Coronavirus._SARS-CoV-2.png"></center>
+
 
 Enquanto um terço das pessoas se apresentam assintomáticas - o que dificulta o real dimensionamento da pandemia - 81% das pessoas com sintomas desenvolvem sintomas moderados e 14% sintomas severos. Já a taxa de mortalidade segue a seguinte distribuição etária:
 
